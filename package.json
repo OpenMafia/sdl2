@@ -1,0 +1,28 @@
+{
+  "name": "sdl2.c",
+  "version": "2.0.5",
+  "description": "Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zpl-c/sdl2.git"
+  },
+  "keywords": [
+    "c",
+    "cpp",
+    "cross-platform"
+  ],
+  "author": "Sam Lantinga (slouken@libsdl.org)",
+  "license": "zlib",
+  "bugs": {
+    "url": "https://github.com/zpl-c/sdl2/issues"
+  },
+  "homepage": "https://github.com/zpl-c/sdl2#readme"
+}
